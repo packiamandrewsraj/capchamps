@@ -1,1 +1,2 @@
-GET http://localhost:4004/odata/v4/product/printhelloworld(input='Hello')
+#GET http://localhost:4004/odata/v4/product/printhelloworld(input='He llo')
+ GET http://localhost:4004/odata/v4/productshop/product
